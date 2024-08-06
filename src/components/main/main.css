@@ -1,0 +1,11 @@
+.form {
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.card {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px;
+  border-radius: 20px;
+}/*# sourceMappingURL=main.css.map */

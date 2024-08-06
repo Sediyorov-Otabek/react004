@@ -1,0 +1,11 @@
+.navv {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: none;
+  width: 100%;
+}
+
+.Header {
+  border: none;
+}/*# sourceMappingURL=Header.css.map */
